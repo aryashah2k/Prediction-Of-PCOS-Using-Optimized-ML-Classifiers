@@ -1,4 +1,4 @@
-# Prediction of Polycystic Ovary Syndrome (PCOS) Uisng Optimized Machine Learning Classifiers
+# Prediction of Polycystic Ovary Syndrome (PCOS) Using Optimized Machine Learning Classifiers
 
 This directory contains the Datasets used throughout the Research Project:
 
