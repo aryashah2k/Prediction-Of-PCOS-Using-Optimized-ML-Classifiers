@@ -1,4 +1,4 @@
-# Prediction of Polycystic Ovary Syndrome (PCOS) Uisng Optimized Machine Learning Classifiers
+# Prediction of Polycystic Ovary Syndrome (PCOS) Using Optimized Machine Learning Classifiers
 
 ![ICAIAA](https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/ICAIAA.PNG)
 
