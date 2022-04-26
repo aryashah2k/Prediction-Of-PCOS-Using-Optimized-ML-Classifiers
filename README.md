@@ -6,4 +6,4 @@
 
 |Organized By|Technical Sponsor|
 |------------|-----------------|
-|<img src="https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/OC.PNG" height="300px" width="300px">|<img src="https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/SCRS.PNG" height="300px" width="300px">|
+|<img src="https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/OC.PNG" height="150px" width="150px">|<img src="https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/SCRS.PNG" height="150px" width="150px">|
