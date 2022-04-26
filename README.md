@@ -7,3 +7,7 @@
 |Organized By|Technical Sponsor|Indexed In|Publisher|
 |------------|-----------------|----------|---------|
 |<img src="https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/OC.PNG" height="150px" width="150px">|<img src="https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/SCRS.PNG" height="150px" width="150px">|<img src="https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/zbmath.PNG" height="150px" width="200px">|<img src="https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/Springer.PNG" height="150px" width="200px">|
+
+|Book Published In|
+|-----------------|
+|<img src="https://github.com/aryashah2k/Prediction-Of-PCOS-Using-Optimized-ML-Classifiers/blob/main/assets/AIS.PNG">|
