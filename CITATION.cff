@@ -5,13 +5,16 @@ preferred-citation:
   authors:
   - family-names: "Vora"
     given-names: "Khushi"
-    family-names: "Shah"
-    given-names:"Arya"
+
+  - family-names: "Shah"
+    given-names: "Arya"
     orcid: "https://orcid.org/0000-0002-2649-1835"
-    family-names: "Shah"
-    given-names:"Nishant"
-    family-names: "Verma"
-    given-names:"Priyanka"
+
+  - family-names: "Shah"
+    given-names: "Nishant"
+
+  - family-names: "Verma"
+    given-names: "Priyanka"
 
   title: "Prediction of Polycystic Ovary Syndrome (PCOS) Using Optimized Machine Learning Classifiers"
   year: 2022
